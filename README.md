@@ -13,12 +13,12 @@ It also allows to exploit these vulnerabilities.
 - CVE-2022-31061
 - CVE-2022-35914
 - CVE-2022-39323
+- CVE-2023-22500
 
 ## Upcoming xploit
 
 - CVE-2020-15176
 - CVE-2021-39211
-- CVE-2023-22500
 
 ## Install
 
