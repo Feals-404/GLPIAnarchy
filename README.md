@@ -18,7 +18,6 @@ It also allows to exploit these vulnerabilities.
 ## Upcoming xploit
 
 - CVE-2020-15176
-- CVE-2021-39211
 
 ## Install
 
