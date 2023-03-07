@@ -19,6 +19,10 @@ It also allows to exploit these vulnerabilities.
 
 - CVE-2020-15176
 
+## Upcoming Features
+
+- Force exploit
+
 ## Install
 
 - With go install
